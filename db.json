@@ -53,6 +53,24 @@
       "comment": " new laptop",
       "date": "2022-08-31T18:30:00.000Z",
       "id": 6
+    },
+    {
+      "productName": " apple",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": " new apples",
+      "date": "2022-09-10T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": " headphone",
+      "category": "Electronics",
+      "freshness": "Brand new",
+      "price": 200,
+      "comment": " new",
+      "date": "2022-08-31T18:30:00.000Z",
+      "id": 8
     }
   ],
   "comments": [

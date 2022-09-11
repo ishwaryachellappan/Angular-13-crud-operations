@@ -21,7 +21,7 @@ export class AppComponent implements OnInit  {
   @ViewChild(MatSort) sort!: MatSort;
   constructor(private dialog: MatDialog,private api:ApiService) {}
   ngOnInit(): void {
-    this.getAllProducts;
+    this.getAllProducts();
   }
 
   openDialog() {
