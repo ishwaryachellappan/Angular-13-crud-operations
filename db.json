@@ -71,6 +71,33 @@
       "comment": " new",
       "date": "2022-08-31T18:30:00.000Z",
       "id": 8
+    },
+    {
+      "productName": " red",
+      "category": "Vegetables",
+      "freshness": "Brand new",
+      "price": 67,
+      "comment": " new",
+      "date": "2022-09-02T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": " apple",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": " fresh apple",
+      "date": "2022-09-10T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": " mobile",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 200000,
+      "comment": " electronic phone",
+      "date": "2022-09-07T18:30:00.000Z",
+      "id": 11
     }
   ],
   "comments": [
