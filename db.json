@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": " ",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": " fresh apple",
+      "date": "2022-09-10T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": " ",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": " fresh apple",
+      "date": "2022-09-10T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": " orange",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": " fresh orange",
+      "date": "2022-09-05T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": " phone",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 200000,
+      "comment": " electronic phone",
+      "date": "2022-09-07T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": " dsc",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 78,
+      "comment": " dxasc",
+      "date": "2022-08-31T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": " laptop",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 56789,
+      "comment": " new laptop",
+      "date": "2022-08-31T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
